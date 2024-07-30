@@ -25,9 +25,6 @@ public class Bedroom {
         this.carpet = carpet;
     }
 
-    public Bedroom(String yatakOdası, String kuzey, String güney, String doğu, String batı, Ceiling ceiling, Bed koyunYünü, Lamp lamp, Wardrobe wardrobe, Carpet carpet) {
-    }
-
     public String getName() {
         return name;
     }
